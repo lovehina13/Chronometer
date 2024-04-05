@@ -1,3 +1,3 @@
-# CMakeProject
+# Chronometer
 
-CMake project including interfaces, libraries, executables, unit tests, documentation, installation and package.
+Basic chronometer library for code performance analysis.
